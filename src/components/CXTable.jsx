@@ -5,7 +5,7 @@ const CXTable = props => {
   return (
     <Fragment>
       <h3>{`Currency Exchange rates for ${base} on ${date}`}</h3>
-      <div style={{ margin: '0 auto', width: '15vw' }}>
+      <div className="cx-table__container">
         <table>
           <thead>
             <tr>

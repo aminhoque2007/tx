@@ -45,3 +45,8 @@ tbody > tr:hover {
   margin-bottom: 5px;
   text-align: initial;
 }
+
+.cx-table__container {
+  margin: 0 auto;
+  width: 15vw;
+}
